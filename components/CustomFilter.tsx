@@ -48,7 +48,7 @@ export default function CustomFilter({ title, options }: CustomFilterProps) {
                   key={option.title}
                   className={({ active }) =>
                     `relative cursor-default select-none py-2 px-4 ${
-                      active ? "bg-primary-blue text-white" : "text-gray-900"
+                      active ? "bg-primary-#6600ff text-white" : "text-gray-900"
                     }`
                   }
                   value={option}
