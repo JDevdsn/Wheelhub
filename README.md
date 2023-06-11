@@ -1,8 +1,8 @@
-# WheelHub Made with Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS.
+# An Application "WheelHub" Made with Next.js 13 | React, TypeScript, Tailwind CSS.
 ![Car Rental Showcase](https://github.com/JDevdsn/Wheelhub/blob/master/WheelHub.png?raw=true)
 
 ## Introduction
-Under minor Construction!
+Under minor Construction! 
 NextJS application with leveraging features such as server-side rendering and the app router. 
  
 What youl experience in this app.
@@ -16,7 +16,7 @@ What youl experience in this app.
 - Embrace the principles of writing clean code.
 
 ## Project for resume & to showcase!
-⭐ HJW - https://wheelhub.vercel.app/
-⭐ HJW - https://hellojworlddd.live
+⭐ HJW Link to the site - https://wheelhub.vercel.app/
+⭐ HJW to see more projects- https://hellojworlddd.live
         
 
