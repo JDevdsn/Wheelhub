@@ -66,7 +66,7 @@ const SearchManufacturer = ({ manufacturer, setManuFacturer }: SearchManuFacture
                     key={item}
                     className={({ active }) =>
                       `relative search-manufacturer__option ${
-                        active ? "bg-primary-blue text-white" : "text-gray-900"
+                        active ? "bg-primary-#6600ff text-white" : "text-gray-900"
                       }`
                     }
                     value={item}
@@ -77,9 +77,9 @@ const SearchManufacturer = ({ manufacturer, setManuFacturer }: SearchManuFacture
                           {item}
                         </span>
 
-                        {/* Show an active blue background color if the option is selected */}
+                        {/* Show an active #6600ff background color if the option is selected */}
                         {selected ? (
-                          <span className={`absolute inset-y-0 left-0 flex items-center pl-3 ${active? "text-white": "text-pribg-primary-purple"}`}
+                          <span className={`absolute inset-y-0 left-0 flex items-center pl-3 ${active? "text-white": "text-pribg-primary-#6600ff"}`}
                           ></span>
                         ) : null}
                       </>
