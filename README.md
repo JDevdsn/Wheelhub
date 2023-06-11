@@ -1,8 +1,8 @@
-# WheelHub Made with Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
+# WheelHub Made with Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS.
 ![Car Rental Showcase](https://github.com/JDevdsn/Wheelhub/blob/master/WheelHub.png?raw=true)
 
 ## Introduction
-Skills in Next.js 13 applications have peaked! this is a state-of-the-art modern application that leverages all of the latest and greatest of what Next 13 has to offer, leveraging features such as server-side rendering and the app router. 
+NextJS application with leveraging features such as server-side rendering and the app router. 
  
 What youl experience in this app.
 
